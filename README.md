@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Kubernetes
 - 🚀 Just finished working on https://kazilane.com
 
-Other projects am proud of(just to mention a few):
+  Other projects am proud of(just to mention a few):
 - https://play.google.com/store/apps/details?id=com.savannah.bewell
 - https://bewell.co.ke/
 
