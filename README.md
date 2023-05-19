@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @vincentmichuki, an Experienced Frontend Engineer
 - 🌱 I’m currently learning Kubernetes
 - 🚀 Just finished working on https://kazilane.com
+Other projects am proud of(just to mention a few):
+- https://play.google.com/store/apps/details?id=com.savannah.bewell
+- https://bewell.co.ke/
+
 - 📫 How to reach me vincentmichuki@gmail.com
 
 - Skills: JavaScript, React, Tailwind, web security, Flutter, TypeScript, Next.js, Docker, GraphQL, Python & Postgres
