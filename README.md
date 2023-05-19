@@ -3,7 +3,7 @@
 - 🚀 Just finished working on https://kazilane.com
 - 📫 How to reach me vincentmichuki@gmail.com
 
-- Skills: JavaScript, React, Tailwind, web security, Flutter, TypeScript, Next.js, Docker, GraphQL
+- Skills: JavaScript, React, Tailwind, web security, Flutter, TypeScript, Next.js, Docker, GraphQL, Python & Postgres
 - Strong background in web development, delivering intuitive and visually appealing user interfaces
 - Proficient in JavaScript frameworks (React, Next.js) for scalable and responsive web applications
 - Deep knowledge of web security, implementing robust measures to protect user data
